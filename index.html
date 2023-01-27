@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login simple con PHP</title>
+</head>
+<body>
+    <h2>Para acceder inicie sesión por favor</h2>
+    <!-- Se procesa en login.php y se envía por POST, no por GET-->
+    <form action="login.php" method="post">
+        <input name="usuario" type="text" placeholder="Escriba o seu nome de usuario">
+        <br><br>
+        <input name="palabra_secreta" type="password" placeholder="Contrasinal">
+        <br><br>
+        <!--Lo siguiente envía el formulario-->
+        <input type="submit" value="Iniciar sesión">
+    </form>
+    <h1>¿Todavía non ten conta?</h1>
+    <a href="register.html">Rexístrese gratis aquí</a>
+</body>
+</html>
