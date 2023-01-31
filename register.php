@@ -8,7 +8,6 @@ $telefono = $_REQUEST['telefono'];
 $nifdni = $_REQUEST['nifdni'];
 $email = $_REQUEST['email'];
 $erros = array();
-$user_repetido = 0;
 $contador = 0;
 
 // conectarse á base de datos
@@ -71,7 +70,8 @@ if($contador != 0){
   }
     
   ?>
-  <p><a href="index.html">Volver a inicio</a></p>
+  <p><a href="register.html">Volver ao formulario de rexistro</a></p>
+  <p><a href="index.html">Volver ao inicio</a></p>
   <?php
 }
 

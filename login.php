@@ -20,7 +20,7 @@ if ($resultado_usuario->num_rows > 0){ //Comproba se a consulta devolve algunha 
 		session_start();
     		$_SESSION["usuario"] = $usuario;
     		#Logo redireccionamos á páxina secreta (logged.php)
-    		header("Location: logged.php");
+    		header("Location: logged.html");
 	}
 	
 	else{ //Se o usuario existe pero a contrasinal está mal avisamos de que o que falla é a contrasinal
