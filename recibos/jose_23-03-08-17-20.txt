@@ -1,0 +1,13 @@
+Recibo da compra dun a por parte do usuario jose con data 23-03-08
+
+Datos do comprador:
+Nome: jose
+NIF: 1
+Telefono: 123123123
+Email: jose@jose.com
+
+Datos do vehículo:
+Marca: a
+Modelo: a
+Prezo: 1
+Descrición: a
