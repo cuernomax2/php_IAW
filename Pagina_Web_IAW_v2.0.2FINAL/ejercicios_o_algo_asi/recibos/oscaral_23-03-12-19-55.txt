@@ -1,0 +1,13 @@
+Recibo da compra dun P4451 por parte do usuario oscaral con data 23-03-12
+
+Datos do comprador:
+Nome: oscaral
+NIF: 646
+Telefono: 1
+Email: oscaral@oscaral.ongayuda
+
+Datos do vehículo:
+Marca: T-34
+Modelo: P4451
+Prezo: 10999
+Descrición: Carromato potente para gente potente

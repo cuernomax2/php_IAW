@@ -1,0 +1,13 @@
+Recibo da compra dun P4451 por parte do usuario manolo con data 23-03-12
+
+Datos do comprador:
+Nome: Santiago Romero
+NIF: 77184239M
+Telefono: 881468192
+Email: sromerodiaz@danielcastelao.org
+
+Datos do vehículo:
+Marca: T-34
+Modelo: P4451
+Prezo: 10999
+Descrición: Carromato potente para gente potente
